@@ -13,7 +13,7 @@ I'll be checking off each day's learning and project as I complete them. You can
 ### Days 1-10: Python Basics & Beginner Projects
 - **Day 1: Band Name Generator**
   - [x] Learning
-  - [ ] Project
+  - [x] Project
 - **Day 2: Tip Calculator**
   - [ ] Learning
   - [ ] Project
