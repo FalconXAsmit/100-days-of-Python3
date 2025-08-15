@@ -51,5 +51,3 @@ final_amount = "{:.2f}".format(per_person_share)
 
 # Use an f-string to present the final result clearly
 print(f"Each person should pay: ${final_amount}")
-
-### Key Takeaways 
