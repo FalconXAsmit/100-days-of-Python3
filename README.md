@@ -42,7 +42,6 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [ ] Learning
   - [ ] Project
 
-### Days 11-20: Intermediate Python & OOP
 - **Day 11: The Blackjack Capstone Project**
   - [ ] Learning
   - [ ] Project
@@ -58,6 +57,8 @@ I'll be checking off each day's learning and project as I complete them. You can
 - **Day 15: Local Development & The Coffee Machine**
   - [ ] Learning
   - [ ] Project
+
+### Days 11-20: Intermediate Python & OOP
 - **Day 16: Object Oriented Programming (OOP)**
   - [ ] Learning
   - [ ] Project
