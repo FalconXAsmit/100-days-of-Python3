@@ -6,21 +6,21 @@ For example:-
 * What's the name of the city you grew up in?
 * What's the name of your pet?
 
-```
+```python
 city_name = input("What's the name of the city you grew up in?\n")
 pet_name = input("What's the name of your pet?\n")
 ```
 
 Then it will combine the answer of these question given by the user and print the following band name. 
 
-```
+```python
 band_name = city_name + " " + pet_name
 print("Your band name could be " + band_name)
 ```
 
 We can also print it by using f-strings like
 
-```
+```python
 print(f"Your band name could be {band_name}")
 ```
 
