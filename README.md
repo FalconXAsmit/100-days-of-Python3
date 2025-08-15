@@ -15,8 +15,8 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] Learning
   - [x] Project
 - **Day 2: Tip Calculator**
-  - [ ] Learning
-  - [ ] Project
+  - [x] Learning
+  - [x] Project
 - **Day 3: Treasure Island Adventure Game**
   - [ ] Learning
   - [ ] Project
