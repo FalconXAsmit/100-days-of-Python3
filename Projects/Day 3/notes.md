@@ -19,7 +19,7 @@ road = input("\tType \"left\" or \"right\"\n").lower()
 if road == "right":
     print("You fell into a hole. Game Over")
 elif road == "left":
-  # The adventure continues down this path...
+  # The adventure continues down this path....
 ```
 
 #### 2. Nested `if/else` Statements
