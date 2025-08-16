@@ -19,7 +19,7 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] Project
 - **Day 3: Treasure Island Adventure Game**
   - [x] Learning
-  - [ ] Project
+  - [x] Project
 - **Day 4: Rock, Paper, Scissors**
   - [ ] Learning
   - [ ] Project
