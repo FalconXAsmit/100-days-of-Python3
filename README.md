@@ -22,7 +22,7 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] Project
 - **Day 4: Rock, Paper, Scissors**
   - [x] Learning
-  - [ ] Project
+  - [x] Project
 - **Day 5: Password Generator**
   - [ ] Learning
   - [ ] Project
