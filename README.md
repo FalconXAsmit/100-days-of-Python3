@@ -24,7 +24,7 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] Learning
   - [x] Project
 - **Day 5: Password Generator**
-  - [ ] Learning
+  - [x] Learning
   - [ ] Project
 - **Day 6: Escaping the Maze**
   - [ ] Learning
