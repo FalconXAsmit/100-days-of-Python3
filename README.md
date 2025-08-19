@@ -26,9 +26,8 @@ I'll be checking off each day's learning and project as I complete them. You can
 - **Day 5: Password Generator**
   - [x] Learning
   - [x] Project
-- **Day 6: Escaping the Maze**
-  - [ ] Learning
-  - [ ] Project
+- **Day 6: Learned about Functions and While Loop**
+  - [x] Learning
 - **Day 7: Hangman**
   - [ ] Learning
   - [ ] Project
