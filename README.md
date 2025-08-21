@@ -32,8 +32,8 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] Revising
   - [x] Project
 - **Day 8: Caesar Cipher**
-  - [ ] Learning
-  - [ ] Project
+  - [x] Learning
+  - [x] Project
 - **Day 9: Silent Auction**
   - [ ] Learning
   - [ ] Project
