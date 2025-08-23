@@ -38,8 +38,8 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] Learning
   - [x] Project
 - **Day 10: Calculator**
-  - [ ] Learning
-  - [ ] Project
+  - [x] Learning
+  - [x] Project
 
 - **Day 11: The Blackjack Capstone Project**
   - [ ] Learning
