@@ -40,10 +40,9 @@ I'll be checking off each day's learning and project as I complete them. You can
 - **Day 10: Calculator**
   - [x] Learning
   - [x] Project
-
 - **Day 11: The Blackjack Capstone Project**
-  - [ ] Learning
-  - [ ] Project
+  - [x] Learning
+  - [x] Project
 - **Day 12: The Number Guessing Game**
   - [ ] Learning
   - [ ] Project
