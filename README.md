@@ -47,8 +47,8 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] Learning
   - [x] Project
 - **Day 13: Debugging: How to Find and Fix Errors**
-  - [ ] Learning
-  - [ ] Project
+  - [x] Learning
+  - [x] Debugging
 - **Day 14: Higher Lower Game Project**
   - [ ] Learning
   - [ ] Project
