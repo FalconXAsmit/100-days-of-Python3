@@ -102,7 +102,7 @@ logo = '''
 '''
 
 # To gamble my life away with again and again
-while input("Do you want to play a game od blackjack? 'y' or 'n' ") == 'y':
+while input("Do you want to play a game of blackjack? 'y' or 'n' ") == 'y':
     clear()
     print(logo)
     play_game()
