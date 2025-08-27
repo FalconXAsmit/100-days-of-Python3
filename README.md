@@ -50,8 +50,8 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] Learning
   - [x] Debugging
 - **Day 14: Higher Lower Game Project**
-  - [ ] Learning
-  - [ ] Project
+  - [x] My First thought
+  - [x] Refactored Project
 - **Day 15: Local Development & The Coffee Machine**
   - [ ] Learning
   - [ ] Project
