@@ -53,8 +53,9 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] My First thought
   - [x] Refactored Project
 - **Day 15: Local Development & The Coffee Machine**
-  - [ ] Learning
-  - [ ] Project
+  - [x] Project
+
+**And with that, the beginner section of the course is done. I'm happy to say I completed it with only a few hiccups, learning some huge lessons while building all these cool projects. My main takeaway? Connecting the grind to my ego has been a insane for my level up. I know ego is bad, but it has one upside—it makes the impossible feel doable. For the last 15 days after college, my mind keeps shouting: "I have to complete this days challenge, or I'm cooked." That pressure is what pushed me through. Now, the beginner phase of my #100DaysOfCode challenge is complete. Tomorrow, with full motivation, I'm diving into Object-Oriented Programming (OOP). Thanks for following the journey.**
 
 ### Days 11-20: Intermediate Python & OOP
 - **Day 16: Object Oriented Programming (OOP)**
