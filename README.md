@@ -59,8 +59,8 @@ I'll be checking off each day's learning and project as I complete them. You can
 
 ### Days 11-20: Intermediate Python & OOP
 - **Day 16: Object Oriented Programming (OOP)**
-  - [ ] Learning
-  - [ ] Project
+  - [x] Learning
+  - [x] Project
 - **Day 17: The Quiz Project & OOP**
   - [ ] Learning
   - [ ] Project
