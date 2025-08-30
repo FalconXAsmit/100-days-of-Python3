@@ -62,8 +62,8 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] Learning
   - [x] Project
 - **Day 17: The Quiz Project & OOP**
-  - [ ] Learning
-  - [ ] Project
+  - [x] Learning
+  - [x] Project
 - **Day 18: Turtle & GUI**
   - [ ] Learning
   - [ ] Project
