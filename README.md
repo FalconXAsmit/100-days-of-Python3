@@ -65,8 +65,8 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] Learning
   - [x] Project
 - **Day 18: Turtle & GUI**
-  - [ ] Learning
-  - [ ] Project
+  - [x] Learning
+  - [x] Project
 - **Day 19: Instances, State and Higher Order Functions**
   - [ ] Learning
   - [ ] Project
