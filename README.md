@@ -68,8 +68,8 @@ I'll be checking off each day's learning and project as I complete them. You can
   - [x] Learning
   - [x] Project
 - **Day 19: Instances, State and Higher Order Functions**
-  - [ ] Learning
-  - [ ] Project
+  - [x] Learning
+  - [x] Project
 - **Day 20: Build the Snake Game Part 1**
   - [ ] Learning
   - [ ] Project
