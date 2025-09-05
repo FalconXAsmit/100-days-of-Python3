@@ -73,7 +73,8 @@ I'll be checking off each day's learning and project as I complete them. You can
 * **Day 20: Build the Snake Game Part 1**
     * [x] Project
 * **Day 21: Build the Snake Game Part 2**
-    * [ ] Project
+    * [x] Learning
+    * [x] Project
 * **Day 22: Build Pong: The Famous Arcade Game**
     * [ ] Project
 * **Day 23: The Turtle Crossing Capstone Project**
