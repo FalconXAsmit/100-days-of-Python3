@@ -16,5 +16,4 @@ class Fish(Animal):
         print("Moving in water")
 
 nemo = Fish()
-
 nemo.swim()
