@@ -39,7 +39,7 @@ I'll be checking off each day's learning and project as I complete them. You can
 * **Day 10: Calculator**
     * [x] Learning
     * [x] Project
-* **Day 11: The Blackjack Capstone Project**
+* **Day 11: The Blackjack Milestone Project**
     * [x] Learning
     * [x] Project
 * **Day 12: The Number Guessing Game**
@@ -76,8 +76,8 @@ I'll be checking off each day's learning and project as I complete them. You can
     * [x] Learning
     * [x] Project
 * **Day 22: Build Pong: The Famous Arcade Game**
-    * [ ] Project
-* **Day 23: The Turtle Crossing Capstone Project**
+    * [x] Project
+* **Day 23: The Turtle Crossing Milestone Project**
     * [ ] Project
 * **Day 24: Files, Directories and Paths**
     * [ ] Learning
@@ -100,7 +100,7 @@ I'll be checking off each day's learning and project as I complete them. You can
 
 ### Days 31-40: APIs, Web Scraping & Automation
 
-* **Day 31: Flash Card App Capstone Project**
+* **Day 31: Flash Card App Milestone Project**
     * [ ] Project
 * **Day 32: Automated Birthday Wisher**
     * [ ] Learning
@@ -120,9 +120,9 @@ I'll be checking off each day's learning and project as I complete them. You can
     * [ ] Project
 * **Day 38: Workout Tracking with Google Sheets**
     * [ ] Project
-* **Day 39: Flight Deal Finder Capstone (Part 1)**
+* **Day 39: Flight Deal Finder Milestone (Part 1)**
     * [ ] Project
-* **Day 40: Flight Deal Finder Capstone (Part 2)**
+* **Day 40: Flight Deal Finder Milestone (Part 2)**
     * [ ] Project
 
 *(...and 60 more days to come!)*
