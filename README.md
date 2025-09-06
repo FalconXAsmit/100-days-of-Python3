@@ -78,7 +78,7 @@ I'll be checking off each day's learning and project as I complete them. You can
 * **Day 22: Build Pong: The Famous Arcade Game**
     * [x] Project
 * **Day 23: The Turtle Crossing Milestone Project**
-    * [ ] Project
+    * [x] Project
 * **Day 24: Files, Directories and Paths**
     * [ ] Learning
 * **Day 25: Working with CSV Data and the Pandas Library**
