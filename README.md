@@ -80,7 +80,7 @@ I'll be checking off each day's learning and project as I complete them. You can
 * **Day 23: The Turtle Crossing Milestone Project**
     * [x] Project
 * **Day 24: Files, Directories and Paths**
-    * [ ] Learning
+    * [x] Learning
 * **Day 25: Working with CSV Data and the Pandas Library**
     * [ ] Learning
     * [ ] Project
