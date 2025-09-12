@@ -82,8 +82,8 @@ I'll be checking off each day's learning and project as I complete them. You can
 * **Day 24: Files, Directories and Paths**
     * [x] Learning
 * **Day 25: Working with CSV Data and the Pandas Library**
-    * [ ] Learning
-    * [ ] Project
+    * [x] Learning
+    * [x] Project
 * **Day 26: Dictionary Comprehension and the NATO Alphabet**
     * [ ] Learning
     * [ ] Project
