@@ -85,8 +85,8 @@ I'll be checking off each day's learning and project as I complete them. You can
     * [x] Learning
     * [x] Project
 * **Day 26: Dictionary Comprehension and the NATO Alphabet**
-    * [ ] Learning
-    * [ ] Project
+    * [x] Learning
+    * [x] Project
 * **Day 27: Tkinter, `*args`, `**kwargs` and Creating GUI Programs**
     * [ ] Learning
     * [ ] Project
