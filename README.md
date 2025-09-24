@@ -93,7 +93,7 @@ I'll be checking off each day's learning and project as I complete them. You can
 * **Day 28: Pomodoro App with Tkinter**
     * [x] Project
 * **Day 29: Password Manager GUI with Tkinter**
-    * [ ] Project
+    * [x] Project
 * **Day 30: Errors, Exceptions and JSON Data**
     * [ ] Learning
     * [ ] Project
